@@ -28,7 +28,7 @@ public class Cars {
 
         Car car1 = new Car(„BMW”, „M5”, 2007, 2.6);
 
-        car1 nazywamy …zmienna,
+        car1 nazywamy …zmienna ,
 
         a przy zapisie:
 
