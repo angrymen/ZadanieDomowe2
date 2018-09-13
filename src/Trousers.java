@@ -5,7 +5,6 @@ public class Trousers {
     String fabric;
     String color;
     String forGender;
-    String type;
     String style;
     String producer;
     String currency;
