@@ -12,4 +12,6 @@ public class Trousers {
     double discount;
     double price;
 
+
+
 }
